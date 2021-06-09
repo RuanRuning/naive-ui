@@ -17,7 +17,7 @@
     src="https://07akioni.oss-cn-beijing.aliyuncs.com/07akioni.jpeg"
   />
   <n-avatar
-    :size="48"
+    :size="50"
     src="https://07akioni.oss-cn-beijing.aliyuncs.com/07akioni.jpeg"
   />
 </n-space>
